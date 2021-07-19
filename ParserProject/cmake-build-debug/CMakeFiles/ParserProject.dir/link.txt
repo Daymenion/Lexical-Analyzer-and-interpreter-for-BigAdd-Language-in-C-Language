@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ParserProject.dir/objects.a
+C:\PROGRA~1\MINGW\mingw\mingw64\bin\ar.exe cr CMakeFiles\ParserProject.dir/objects.a @CMakeFiles\ParserProject.dir\objects1.rsp
+C:\PROGRA~1\MINGW\mingw\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\ParserProject.dir/objects.a -Wl,--no-whole-archive -o ParserProject.exe -Wl,--out-implib,libParserProject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ParserProject.dir\linklibs.rsp
